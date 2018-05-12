@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9629'
     url: http://www.gutenberg.org/2009/agents/9629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20961#The-Masques-of-Ottawa
 gutenberg_issued: '2007-04-02'
 gutenberg_type: Text
 identifiers:
